@@ -1,27 +1,61 @@
-# OnlineTest
+# Online Test Using Angular
+## Developer 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.1.
+**Vikram C**
 
-## Development server
+A passionate developer from India
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+***Connect me on*** [LinkedIn](https://www.linkedin.com/in/vikram-chandrareddy-851393172/)
 
-## Code scaffolding
+## Overview
+The Online Test Application system creates an application that enables users to provide online tests, review them, and display the results. 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Tools and Stack Used
+1. VS Code: Editor to code for the application 
 
-## Build
+2. Angular: One of the popular frontend frameworks to render the content at client side 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+3. Git: To connect and push files from the local system to GitHub 
 
-## Running unit tests
+4. GitHub: To store the application code and track its versions 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+5. JSON-Server: To fetch the questions and answers from the backend REST API 
 
-## Running end-to-end tests
+6. Bootsrap: A popular CSS fraework to style the website 
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Data Structures & Techniques Used
+1. Forms Module in Angular: To create powerful forms
 
-## Further help
+2. Pagination : To provide good user experience, it is used to restrict one question per page
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+3.  Timer: To have a time limit to the quiz
+
+## Flow Chart
+
+
+
+![FlowChart](https://github.com/mcvrvikram/online-test/blob/main/src/assets/FlowChart.PNG)
+
+
+## How to execute
+Requriements: Node JS and NPM needs to be installed on your machine
+
+Download the code and run using ng serve within the root folder from a command prompt or terminal and there you go!
+
+## Sample Output
+
+### Sample 1
+![output page1](https://github.com/mcvrvikram/online-test/blob/main/src/assets/Quiz.PNG)
+
+### Sample 2
+![output page2](https://github.com/mcvrvikram/online-test/blob/main/src/assets/Review.PNG)
+
+### Sample 3
+![output page3](https://github.com/mcvrvikram/online-test/blob/main/src/assets/Review2.PNG)
+
+### Sample 4
+![output page4](https://github.com/mcvrvikram/online-test/blob/main/src/assets/Results.PNG)
+
+### Sample 5
+![output page5](https://github.com/mcvrvikram/online-test/blob/main/src/assets/Results2.PNG)
+
